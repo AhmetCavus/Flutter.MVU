@@ -78,4 +78,4 @@ ValueListenableBuilder<CounterModel>(valueListenable: modelNotifier, builder: (c
 })
 ```
 
-For further details, please check the source code and don't hasitate to send your feedback, if you've some ideas or questions. 
+For further details, please check the source code and don't hesitate to send your feedback, if you've some ideas or questions. 
